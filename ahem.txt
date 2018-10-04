@@ -1,0 +1,1 @@
+//socket.broadcast.emit('positionData',data);   //b4 when i planned to send to all machines/clients
